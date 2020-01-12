@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="IHM" version="4">
+  <OBJECT>
+    <ID name="IHM" mc="Infrastructure.DiagramSet" uid="1b2ffc67-ee4f-46da-bcd6-ba883d555fc6"/>
+    <PID name="IHM" mc="Standard.Project" uid="bdc334bf-9a16-41cb-8a2d-632c62a7a150"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[IHM]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ihm" version="4">
+  <OBJECT>
+    <ID name="ihm" mc="Standard.Package" uid="7920c449-bda4-487d-92ba-600f8ecb9543"/>
+    <PID name="IHM" mc="Standard.Project" uid="bdc334bf-9a16-41cb-8a2d-632c62a7a150"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ihm]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Dessin" mc="Standard.Class" uid="78f743b2-5f5a-4065-9026-e1163f0f7a61"/>
+        <COMPID name="Figure" mc="Standard.Class" uid="5d95665b-8200-4ff1-9e2a-58653c12238b"/>
+        <COMPID name="Segment" mc="Standard.Class" uid="b1fa0143-974f-4cae-aacb-fc6d7be92b91"/>
+        <COMPID name="Rectangle" mc="Standard.Class" uid="a3ceab7b-a6ea-42d8-89fe-7f073e54d156"/>
+        <COMPID name="Triangle" mc="Standard.Class" uid="6317f353-535b-4e14-afac-02e3fa1886a9"/>
+        <COMPID name="Ellipse" mc="Standard.Class" uid="263284f5-8e50-40b3-9c08-5fb62c2589a6"/>
+        <COMPID name="Cercle" mc="Standard.Class" uid="4f764f51-6787-40df-bbd6-697aedf7e8e2"/>
+        <COMPID name="Polygone" mc="Standard.Class" uid="036612cb-ae07-4a5e-bcb0-ab6dde802868"/>
+        <COMPID name="java" mc="Standard.Package" uid="0c93e1b2-2e8f-4413-b430-fa79ad144b2d"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="ihm Class diagram" mc="Standard.ClassDiagram" uid="3608ac8d-eba4-49fc-90fe-aaea6a32ca7b"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
